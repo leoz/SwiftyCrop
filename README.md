@@ -32,6 +32,7 @@ The following languages are supported & localized:
 - 🇺🇦 Ukrainian
 - 🇭🇺 Hungarian
 - 🇧🇷 Brazilian Portuguese
+- 🇰🇷 Korean
 
 The localization file can be found in `Sources/SwiftyCrop/Resources`.
 
@@ -192,6 +193,8 @@ Thanks to [@kevin-hv](https://github.com/kevin-hv) for adding the hungarian loca
 Thanks to [@Festanny](https://github.com/Festanny) for helping with the recangular cropping functionality 🎉
 
 Thanks to [@lipej](https://github.com/lipej) for adding the brazilian portugese localization 🇧🇷🇵🇹
+
+Thanks to [@insub](https://github.com/insub4067) for adding the korean localization 🇰🇷
 
 ## ✍️ Author
 
